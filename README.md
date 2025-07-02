@@ -1,4 +1,4 @@
-# 2. UserService
+# UserService
 - Create, update, and delete user profiles.
 - Manage user preferences (language, currency, theme).
 - Track loyalty points and reward tiers.
